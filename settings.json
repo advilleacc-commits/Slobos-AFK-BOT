@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Puanhiu.aternos.me:54632",
+    "ip": "Puanhiu.aternos.me",
     "port": 54632,
     "version": "1.21.1"
   },
